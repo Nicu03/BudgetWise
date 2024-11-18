@@ -1,5 +1,3 @@
----
-
 # BudgetWise
 
 **BudgetWise** is a service-oriented budgeting application designed for efficient personal finance management. This application utilizes **Windows Communication Foundation (WCF)** for its service layer and leverages **Docker** for containerization, ensuring a modern and scalable architecture.
